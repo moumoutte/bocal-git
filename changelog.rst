@@ -6,3 +6,4 @@ Changelog
 ---------------------
 
     * Add login feature
+    * Add cash feature
