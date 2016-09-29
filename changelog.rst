@@ -5,4 +5,4 @@ Changelog
 0.1.0dev (unreleased)
 ---------------------
 
-    * Initial commit
+    * add login feature
