@@ -1,0 +1,2 @@
+def cash():
+    return True
